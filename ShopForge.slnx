@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/ShopForge.BuildingBlocks.Application/ShopForge.BuildingBlocks.Application.csproj" />
+    <Project Path="src/BuildingBlocks/ShopForge.BuildingBlocks.Domain/ShopForge.BuildingBlocks.Domain.csproj" />
+    <Project Path="src/BuildingBlocks/ShopForge.BuildingBlocks.Presentation/ShopForge.BuildingBlocks.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/src/Host/">
+    <Project Path="src/Host/ShopForge.Api/ShopForge.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/">
+    <Project Path="src/Modules/Catalog/ShopForge.Catalog.Application/ShopForge.Catalog.Application.csproj" />
+    <Project Path="src/Modules/Catalog/ShopForge.Catalog.Domain/ShopForge.Catalog.Domain.csproj" />
+    <Project Path="src/Modules/Catalog/ShopForge.Catalog.Infrastructure/ShopForge.Catalog.Infrastructure.csproj" />
+    <Project Path="src/Modules/Catalog/ShopForge.Catalog.Presentation/ShopForge.Catalog.Presentation.csproj" />
+  </Folder>
+</Solution>
